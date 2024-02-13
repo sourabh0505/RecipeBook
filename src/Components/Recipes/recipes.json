@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "image": "https://i0.wp.com/cookingwithbry.com/wp-content/uploads/paneer-tikka-masala-recipe-2.png?resize=540%2C720&ssl=1",
+        "image2": "https://www.shutterstock.com/shutterstock/photos/529460374/display_1500/stock-photo-famous-indian-food-recipe-paneer-butter-masala-529460374.jpg",
+        "name": "Panner Tikka Masala",
+        "timeToPrepare": 45,
+        "cost": 100,
+        "Ingredients": "500 gms paneer cut into square or rectangular shape, 2 cups curd, 1.5 tbsp red chilli powder, 1 tsp haldi, 1 tbsp dhania powder, 2 tsp paneer masala, 1 tsp garam masala, 2 tsp paneer masala, 1 pinch salt as per taste, 2 nos onion, 4 nos big red tomatoes, 1 piece ginger, 10-12 nos flakes of garlic, 4-5 nos green chillies, 1 pinch tandoori color",
+        
+        "Directions": "Grind onion tomato green chilli ginger garlic to a fine paste. Take a big flat pan n mix all the above ing in the curd except paneer. Now take paneer pieces one by one n apply the mixture to all sides. Marinate for about 2-3 hours ... now remove the paneer pieces n fry for a minute at a time you can put 2-3 pieces in such a way that they do not stick to each other.. meanwhile in the other pan heat 4-5 tbsp oil and put the curd mixture and cook till oil seperates. Add paneer and cook on low flame for 4_5 mins Off the flame serve hot with chappati or nan.",
+
+        "category": "Indian"
+    },
+
+    {
+        "id": 2,
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/chilli-paneer-recipe.jpg",
+        "image2": "https://www.shutterstock.com/shutterstock/photos/1940099800/display_1500/stock-photo-paneer-chilis-is-an-indian-dish-paneer-cubes-with-tomatoes-onions-spring-onions-chilli-sauce-1940099800.jpg",
+        "name": "Paneer Chilli Dry",
+        "timeToPrepare": 40,
+        "cost": 120,
+        "Ingredients": "250 gms paneer, 1 nos medium onions, 1 nos large capsicum, 1 nos green chilli, 5-6 nos garlic, 1 tbsp soya sauce, 1 tbsp green chilli sauce, 1 tbsp red chilli sauce, 1-2 tbsp tomato sauce, 1 tbsp vinegar, 2 tbsp maida, 1 tbsp corn flour or gram flour",
+
+        "Directions": "Cut paneer in cubes medium size. Sprinkle pepper and garlic ginger paste 1 tsb and mix it. Sprinkle 1 tsp maida on it so that pepper and paste remain with paneer. Keep it for 10 min. Cut onions and capsicum in large pieces. Cut Green chilli and garlic in small pieces. Heat 2 tsb olive oil in pan. Add garlic if you want you can add ginger also with garlic. Then add onions green chilli capsicum. Heat till colour of onions change. Add soya, green chilli, red chilli, tomato sauce on low flame. Add 1/2 cup water for thick gravy and 1 and 1/2 cup for more gravy. Add vinegar in last. In other pan you have to fry paneer. Make mixtures of maida and corn flour with water. Dip paneer cubes in mixture and fry it till the paneer becomes brown. Mix paneer in 1st pan and heat for 2-3 minutes and mix well. Delicious Chilli paneer is ready to serve.",
+
+        "category": "Indian"
+    },
+
+    {
+        "id": 3,
+        "image": "https://static.toiimg.com/thumb/53241216.cms?imgsize=255265&width=800&height=800",
+        "image2": "https://www.shutterstock.com/shutterstock/photos/2117250350/display_1500/stock-photo-tunde-ke-kabab-also-known-as-buffalo-chicken-or-meat-galouti-kebab-is-a-soft-dish-made-out-of-2117250350.jpg",
+        "name": "Veg Kebab",
+        "timeToPrepare": 60,
+        "cost": 140,
+        "Ingredients": "1 cup rajma (Kidney beans), soaked overnight, 2 tbsp. fried onion, 10-12 cashews, 1 onion, chopped, 2 fresh red chilies, chopped, 1/2 cup coriander leaves, chopped, 1 tsp. ghee, 1/2 tsp. salt or to taste, 1 tsp. garam masala powder, 2-3 tbsp. roasted gram flour, 2-3 tbsp oil to shallow fry, 1 small live charcoal",
+
+        "Directions": "Boil the soaked rajma with enough water for 10 minutes on a medium flame after the first whistle. Grind along with the fried onions and cashews into a smooth paste. Add rest of the ingredients (except oil) to the ground rajma and mix well to form a dough. Place a small live charcoal in a steel container and pour a table spoon of oil / ghee in it. Cover for 5 minutes so that the smokey flavour gets infused in it. Form small flat round shape patties by wetting your hands. Shallow fry on both sides by adding a tbsp. of oil. Carefully flip them as they are very delicate. Enjoy with green chutney or any dip.",
+
+        "category": "Indian"
+    },
+
+    {
+        "id": 4,
+        "image": "https://www.sharmispassions.com/wp-content/uploads/2012/09/HakkaNoodles4-e1689045142580-500x500.jpg",
+        "image2": "https://www.shutterstock.com/shutterstock/photos/1164897112/display_1500/stock-photo-stir-fried-noodle-1164897112.jpg",
+        "name": "Haka Noodles",
+        "timeToPrepare": 25,
+        "cost": 50,
+        "Ingredients": "300 grams noodles, 1 teaspoon minced ginger, 2 teaspoons minced garlic, 1 tablespoon vegetable oil, 1 tablespoon oil, 1 green chili, sliced, 1 stalk celery, chopped, 1 medium red onion, 1 large carrot, sliced 1 large red pepper, 3 stalks green onion chopped, 2.5 tablespoons soy sauce, 1 tablespoon rice vinegar, or white vinegar, 1 teapoon hot sauce, like sriracha, 1/2 teaspoon sugar, optional, 1 pinch white pepper powder, 1/4 teaspoon black pepper powder, 1 teaspoon chili oil, optional",
+
+        "Directions": "On a high flame add oil in pan. Add all veggies and salt. Add all sauces . Soya sayce, green and red cholli sauce. Chilli sauce gives it the spicy flavour. Mix it well . Serve it ..",
+
+        "category": "Chinese"
+    },
+
+    {
+        "id": 5,
+        "image": "https://greenbowl2soul.com/wp-content/uploads/2023/03/vegetable-chow-mein.jpg",
+        "image2": "https://www.shutterstock.com/shutterstock/photos/2081149771/display_1500/stock-photo-chicken-hakka-noodles-or-schezwan-or-szechwan-noodles-served-in-a-bowl-with-chopsticks-selective-2081149771.jpg",
+        "name": "Chowmein",
+        "timeToPrepare": 20,
+        "cost": 30,
+        "Ingredients": "1 cups noodles, 1/4 cups oil, 1 inch ginger (grated), 1 piece green chilli (finely chopped), 2 nos onion medium sized (finely chopped), 1 nos capsicum-medium sized (finely chopped), 1 tsp soya sauce, 1 tsp red chilli sauce, 1 tsp green chilli sauce, 1 tbsp tomato sauce, 1 tsp vinegar, 1 tsp salt, 1 tsp red chilli powder",
+        
+        "Directions": "Take a pan add 3cup water heat it then add 1 teaspoon oil. Add noodles then boil it for 5min then wash the noodles with chilled water. Seive it and put it under fan. Meanwhile take a pan add 2 tablespoons oil then add ginger and green chilli saute. Add onion fry for 1min then add capsicum fry for 1min more. Add noodles fry for 2min. Add salt, all the sauce and red chilli powder and vinegar toss it well. Cook for 5min then turn off the flame. Yummilicious veg Chowmein is ready to serve.",
+
+        "category": "Chinese"
+    },
+
+    {
+        "id": 6,
+        "image": "https://www.licious.in/blog/wp-content/uploads/2021/11/Vegetable-Rolls.jpg",
+        "image2": "https://www.shutterstock.com/shutterstock/photos/1885415479/display_1500/stock-photo-deep-fried-spring-rolls-por-pieer-tod-or-fried-spring-rolls-thai-spring-roll-snacks-and-snacks-1885415479.jpg",
+        "name": "Spring Rolls",
+        "timeToPrepare": 40,
+        "cost": 70,
+        "Ingredients": " Filling: 1 tbsp oil 2 garlic cloves, finely chopped or minced 400 g / 13 oz pork mince (ground pork), or chicken or turkey 6 dried shiitake mushrooms soaked in boiling water 1 1/2 cups shredded carrot (1 large or 2 small) 1 1/2 cups (heaped) bean sprouts 1 1/2 cups (packed) shredded green cabbage 1 tsp cornflour / cornstarch 1 1/2 tbsp Oyster Sauce 2 tsp soy sauce (light or all purpose is best, dark is also ok) Spring Rolls: 15 – 20 spring roll wrappers, defrosted (21.5 cm / 8” squares) OR 35 - 40 small spring roll wrappers 1 tbsp water (for sealing rolls) Oil for frying (I use vegetable) Sweet and Sour Sauce (makes ~ 2/3 cup): 2 tsp cornflour/ cornstarch 2 tbsp water ½ cup apple cider vinegar 1/3 cup brown sugar (adjust to taste) 2 tbsp tomato ketchup 2 tsp soy sauce",
+
+        "Directions": "FILLING: 1- Heat oil in a skillet or wok over high heat. Add garlic, stir quickly, then add pork. Cook, breaking it up as you go, until it turns white. 2- Add carrot, bean sprouts, cabbage and mushrooms. Cook for 3 minutes or until vegetables are wilted. Add cornflour, soy sauce and Oyster sauce, cook for 1 minute until the liquid is gone. The Filling should not be watery, it should be kind of sticky . SPRING ROLL: 1- Mix cornflour and water in a small bowl (for sealing the rolls). 2- Carefully peel off one spring roll wrapper, keep the others covered under a damp tea towel. 3- Place the wrapper with the SMOOTH SIDE DOWN in a diamond position. Place a very heaped dessert spoon of filling on the bottom. Roll up halfway, fold sides in, then finish rolling. Use cornflour sludge to seal. They should be about 12 cm / 5' long, 2.5cm / 1' wide once wrapped. 4- Pour enough oil in a wok or large saucepan so it is double the height of the spring rolls. Heat on medium high until hot - stick a bamboo chopstick or wooden spoon handle in, if rapid bubbles appear, then it's hot enough. 5- Carefully place spring rolls in the oil (about 4 - 5 at a time) and cook, turning occasionally, until deep golden - around 1 1/2 - 2 minutes. Transfer to paper towels to drain. 6- Repeat with remaining spring rolls. Serve while hot with Sweet and Sour Sauce!",
+
+        "category": "Chinese"
+    }
+]

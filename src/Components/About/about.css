@@ -1,0 +1,35 @@
+.aboutContainer{
+    display: flex;
+    flex-flow: column nowrap;
+    margin: 3rem auto;
+}
+
+.headingandImg{
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+    gap: 2rem;
+    margin: 1rem 0;
+}
+
+.headingandImg > img{
+    max-width: 300px;
+    min-height: 300px;
+    object-fit: cover;
+}
+
+.publisherDes{
+    display: flex;
+    flex-flow: column nowrap;
+    text-align: center;
+}
+
+.publisherDes > .description{
+    text-align: center justify;
+}
+
+.publisherDes > .contactUs{
+    margin-top: 4rem;
+}
+
+

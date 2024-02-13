@@ -1,0 +1,66 @@
+.booksContainer{
+    display: flex;
+    flex-flow: column nowrap;
+    gap: 5rem;
+    align-items: center;
+    margin-top: 4rem;
+}
+
+.booksDiv{
+    border: 1px solid white;
+    width: 400px;
+    height: auto;
+    border-radius: .2rem;
+}
+
+.bookCardsContainer{
+    display: flex;
+    flex-flow: row wrap;
+    gap: 3rem;
+    justify-content: center;
+}
+
+.booksDiv > .booksBanner > img{
+    width: 100%;
+    max-height: 450px;
+}
+
+.booksDiv .booksInfo :nth-child(1){
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.booksDiv .booksInfo{
+    padding: .5rem;
+    text-align: justify;
+    margin-bottom: 1rem;
+}
+
+.booksDiv > .showBooksBtn{
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.booksDiv button{
+    width: 6rem;
+    min-height: 2rem;
+    border: 1px solid white;
+    border-radius: .2rem;
+    background-color: black;
+}
+
+.booksDiv button a{
+    color: white;
+    text-decoration: none; 
+}
+
+.booksDiv button:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+
+

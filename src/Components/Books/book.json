@@ -1,0 +1,49 @@
+[
+    {
+        "id": 1,
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/718TVkAV2FL._SY466_.jpg",
+        "name": "Recipe Journal: Your Perfect Blank Cookbook",
+        "description": "Compile your and your family's favorite recipes in this blank journal. You can arrange them alphabetically or per menu course - it's really up to you...",
+        "linkToBook": "https://www.amazon.in/dp/1681455986/ref=sspa_dk_detail_4?psc=1&pd_rd_i=1681455986&pd_rd_w=TBiqs&content-id=amzn1.sym.0fcdb56a-738b-4621-9da7-d47193883987&pf_rd_p=0fcdb56a-738b-4621-9da7-d47193883987&pf_rd_r=2VDBZ1VEV4CCMS55N9YX&pd_rd_wg=uslgh&pd_rd_r=7c34a001-b7f0-48b6-9fce-4e9acc19ca08&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy"
+    },
+
+    {
+        "id": 2,
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/91zb31BcHyL._SY466_.jpg",
+        "name": "Forgotten Foods: Memories and Recipes from Muslim South Asia",
+        "description": "While heritage foods still abound in the streets and kitchens of South Asia, it may just be a matter of time before many of these historic dishes...",
+        "linkToBook": "https://www.amazon.in/Forgotten-Foods-Memories-Recipes-Muslim/dp/9395624353/ref=sr_1_13?keywords=recipe+books&qid=1707301484&sr=8-13"
+    },
+
+    {
+        "id": 3,
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/611ADbd+hRL._SY466_.jpg",
+        "name": "A INDIAN HOUSEWIFE'S RECIPE BOOK",
+        "description": "Laxmi Khurana is an Indian housewife living in the UK. Her recipes have been handed down to her through the generations, and admired by her family...",
+        "linkToBook": "https://www.amazon.in/INDIAN-HOUSEWIFES-RECIPE-BOOK/dp/0716020785/ref=sr_1_9?keywords=recipe+books&qid=1707301484&sr=8-9"
+    },
+
+    {
+        "id": 4,
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/71iyuJJu7mL._SY466_.jpg",
+        "name": "Shivesh Bhatia's Desserts for Every Mood: 100 feel-good recipes",
+        "description": "This book contains tones of recipes of desserts to satisfy your cravings for sweet dishes after dinner and also for the late night cravings...",
+        "linkToBook": "https://www.amazon.in/Shivesh-Bhatias-Desserts-Every-Mood/dp/9353577063/ref=sr_1_7?keywords=recipe+books&qid=1707301484&sr=8-7"
+    },
+
+    {
+        "id": 5,
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/51oul9tB2cS._SY445_SX342_.jpg",
+        "name": "THE BREAKFAST RECIPE BOOK",
+        "description": "The breakfast recipe book can be used by a beginner to an expert level cook. Students, working professionals, hostellers who find it difficult to choose healthy food options, can simply refer to this book and find...",
+        "linkToBook": "https://www.amazon.in/BREAKFAST-RECIPE-Recipe-weight-health-ebook/dp/B095PDQYRC/ref=sr_1_5?keywords=recipe+books&qid=1707301484&sr=8-5"
+    },
+
+    {
+        "id": 6,
+        "image": "https://m.media-amazon.com/images/W/MEDIAX_849526-T2/images/I/51SvAdimWBL._SY466_.jpg",
+        "name": "Healthy Food - Wholesome Millet Recipes",
+        "description": "Healthy food is one which protects our body and safeguards our health. This book has recipes for food items, that would be relished, healthy...",
+        "linkToBook": "https://www.amazon.in/Healthy-Food-Wholesome-Millet-Recipes/dp/8193384903/ref=sr_1_4?keywords=recipe+books&qid=1707301484&sr=8-4"
+    }
+]

@@ -1,0 +1,88 @@
+.favouritesContainer {
+    display: flex;
+    flex-flow: column wrap;
+    gap: 4rem;
+    padding: 0 3rem;
+    margin-top: 3rem;
+  }
+
+  .favouritesContainer h1{
+    text-align: center;
+  }
+
+.favouriteCardsContainer {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 4rem;
+    margin-bottom: 3rem;
+}
+
+.favouriteCard {
+    border: 1px solid #ccc;
+    width: 300px;
+    min-height: 300px;
+    margin-top: 1.8rem;
+    border-radius: .2rem;
+}
+
+.favouriteImage img {
+    min-width: 100%; 
+    max-height: 300px; 
+    object-fit: cover; 
+}
+
+.favouriteInfo {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.favouriteInfo h3 {
+    font-size: 1.5rem; 
+    margin-bottom: 5px;
+}
+
+.favouriteInfo p {
+    font-size: 1rem; 
+}
+
+.showRecipeBtn > button {
+    margin: 1rem .8rem;
+    min-height: 2rem;
+    min-width: 7rem;
+    background-color: transparent;
+    border-radius: .2rem;
+    border: 1px solid white;
+    color: white;
+}
+
+.showRecipeBtn > button > a {
+    text-decoration: none;
+    color: white;
+}
+
+.showRecipeBtn > button:hover {
+    transform: scale(1.1);
+}
+
+
+@media screen and (max-width: 768px) {
+.favouritesContainer {
+    flex-flow: column; 
+    gap: 0; 
+    align-items: center;
+
+    .recipeCardsContainer{
+      justify-content: center;
+    }
+
+  }
+
+.favouriteCardsContainer {
+        gap: 2rem; 
+ }
+
+.favouriteCard {
+        min-width: calc(50% - 2rem); 
+}
+}
+

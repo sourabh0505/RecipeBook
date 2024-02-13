@@ -1,0 +1,94 @@
+.recipesContainer {
+  display: flex;
+  flex-flow: row nowrap;
+  gap: 10rem;
+}
+
+.recipesDiv {
+  .cuisineHeading {
+      margin: 1.2rem 0;
+  }
+
+  .recipeCardsContainer {
+      display: flex;
+      flex-flow: row wrap;
+      gap: 4rem;
+      margin-bottom: 3rem;
+  }
+  
+  .recipeCard {
+      border: 1px solid #ccc;
+      width: 300px;
+      min-height: 300px;
+      margin-top: 1.8rem;
+      border-radius: .2rem;
+  }
+
+  .recipeImage img {
+      min-width: 100%; 
+      max-height: 300px; 
+      object-fit: cover; 
+  }
+
+  .recipeInfo {
+      margin-top: 10px;
+      margin-left: 10px;
+  }
+  
+  .recipeInfo h3 {
+      font-size: 1.5rem; 
+      margin-bottom: 5px;
+  }
+
+  .recipeInfo p {
+      font-size: 1rem; 
+  }
+
+  .showRecipeBtn > button {
+      margin: 1rem .8rem;
+      min-height: 2rem;
+      min-width: 7rem;
+      background-color: transparent;
+      border-radius: .2rem;
+      border: 1px solid white;
+      color: white;
+  }
+
+  .showRecipeBtn > button > a {
+      text-decoration: none;
+      color: white;
+  }
+
+  .showRecipeBtn > button:hover {
+      transform: scale(1.1);
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .recipesContainer {
+      flex-flow: column; 
+      gap: 0; 
+      align-items: center;
+
+      .recipeCardsContainer{
+        justify-content: center;
+      }
+
+    }
+
+  .recipesDiv {
+
+      .recipeCardsContainer {
+          gap: 2rem; 
+      }
+
+      .recipeCard {
+          min-width: calc(50% - 2rem); 
+      }
+
+      .cuisineHeading{
+        text-align: center;
+      }
+  }
+}
