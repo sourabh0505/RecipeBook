@@ -45,3 +45,41 @@
 .recipeDescription > p:nth-child(2){
     margin-bottom: 2rem;
 }
+
+.recipeDescription .reviewSection{
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.recipeDescription .reviewSection input{
+    min-width: 80%;
+    padding: .8rem 1rem 6rem;
+    font-size: medium;
+    margin-top: 8rem;
+}
+
+.recipeDescription .reviewSection input::placeholder{
+    color: #999; 
+    font-size: 16px; 
+    position: absolute; 
+    top: 10px; 
+    left: 10px;
+}
+
+.recipeDescription .reviewSection button{
+    margin: 1rem 0;
+    min-height: 2rem;
+    max-width: 7rem;
+    background-color: transparent;
+    border-radius: .2rem;
+    border: 1px solid white;
+    color: white;
+}
+
+.recipeDescription .reviewDisplay ul{
+    background-color: white;
+    color: black;
+    padding: 1rem;
+    border-radius: .2rem;
+    margin-top: 1rem;
+}

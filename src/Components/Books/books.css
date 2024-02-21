@@ -57,9 +57,21 @@
     text-decoration: none; 
 }
 
+.booksDiv:hover{
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.5);
+    transform: scale(1.01);
+}
+
 .booksDiv button:hover{
     transform: scale(1.1);
     cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    .bookCardsContainer{
+        max-width: 18rem;
+        height: auto;
+    }
 }
 
 

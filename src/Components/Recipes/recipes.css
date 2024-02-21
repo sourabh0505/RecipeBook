@@ -59,6 +59,11 @@
       color: white;
   }
 
+  .recipeCard:hover{
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.5);
+    transform: scale(1.01);
+  }
+
   .showRecipeBtn > button:hover {
       transform: scale(1.1);
   }
